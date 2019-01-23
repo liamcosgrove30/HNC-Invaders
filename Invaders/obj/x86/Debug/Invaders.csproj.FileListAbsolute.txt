@@ -1,0 +1,202 @@
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Invaders.exe
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Invaders.pdb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.csprojResolveAssemblyReference.cache
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.exe
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.pdb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien1.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien2.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien3.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien4.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\destroyer.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\DST-BlinkWorld.wma
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\DST-BlinkWorld.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\hst_ngc4414_9925.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\launch.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\plasmaBolt.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\plasmaShot.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\scary alien.xnb
+C:\Dev\xna\student exs\MONOGAME VERSION Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\shield.xnb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.exe
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.pdb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Invaders.exe
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Invaders.pdb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.dll
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.xml
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.csprojResolveAssemblyReference.cache
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien1.xnb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien2.xnb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien3.xnb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien4.xnb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\destroyer.xnb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\DST-BlinkWorld.wma
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\DST-BlinkWorld.xnb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\hst_ngc4414_9925.xnb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\launch.xnb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\plasmaBolt.xnb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\plasmaShot.xnb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\scary alien.xnb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\shield.xnb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\TestFont.xnb
+E:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\Texture.xnb
+F:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.exe
+F:\Liam's college stuff\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.pdb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.exe
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.pdb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Invaders.exe
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Invaders.pdb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.dll
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.xml
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.csprojResolveAssemblyReference.cache
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.exe
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.pdb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\scary alien.xnb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\TestFont.xnb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien1.xnb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien2.xnb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien3.xnb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien4.xnb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\destroyer.xnb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\DST-BlinkWorld.wma
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\DST-BlinkWorld.xnb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\hst_ngc4414_9925.xnb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\launch.xnb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\plasmaBolt.xnb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\plasmaShot.xnb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\shield.xnb
+E:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\Texture.xnb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\scary alien.xnb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\TestFont.xnb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien1.xnb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien2.xnb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien3.xnb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien4.xnb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\destroyer.xnb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\DST-BlinkWorld.wma
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\DST-BlinkWorld.xnb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\hst_ngc4414_9925.xnb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\launch.xnb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\plasmaBolt.xnb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\plasmaShot.xnb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\shield.xnb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\Texture.xnb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Invaders.exe
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Invaders.pdb
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.dll
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.xml
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Liam's college stuff\Structured programming\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.csprojResolveAssemblyReference.cache
+E:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.exe
+E:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.pdb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.exe
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.pdb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\scary alien.xnb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\TestFont.xnb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien1.xnb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien2.xnb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien3.xnb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\alien4.xnb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\destroyer.xnb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\DST-BlinkWorld.wma
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\DST-BlinkWorld.xnb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\hst_ngc4414_9925.xnb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\launch.xnb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\plasmaBolt.xnb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\plasmaShot.xnb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\shield.xnb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Content\Texture.xnb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Invaders.exe
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\Invaders.pdb
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\MonoGame.Framework.dll
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.dll
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XAudio2.dll
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D11.dll
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.DXGI.dll
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct2D1.dll
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XInput.dll
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.RawInput.dll
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D9.dll
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\MonoGame.Framework.xml
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.xml
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XAudio2.xml
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D11.xml
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.DXGI.xml
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct2D1.xml
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.XInput.xml
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.RawInput.xml
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\bin\Windows\Debug\SharpDX.Direct3D9.xml
+G:\HNC\Structured programming\Portfolio project 3 - Invaders\Invaders\obj\x86\Debug\Invaders.csprojResolveAssemblyReference.cache
